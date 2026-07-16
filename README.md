@@ -20,4 +20,4 @@ To analyze historical Electric Vehicle (EV) sales data and predict future market
 Predicted EV sales from 2026 to 2030 and estimated market growth rate of 40.28%.
 
 ## Author
-Brahmini Chowdary
+Mahankali paripurna laxmi
